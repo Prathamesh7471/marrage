@@ -79,9 +79,3 @@ text-align: center;
 .element{
     width: clamp(250px, 50%, 400px);
 }
-@media only screen and (max-width: 767px) {
-  body {
-    font-size: 14px; /* Adjust font size for smaller screens */
-  }
-  /* Add other styles for mobile devices */
-}
