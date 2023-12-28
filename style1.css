@@ -76,3 +76,6 @@ text-align: center;
     text-align: center;
     text-shadow:pink;
 }
+.element{
+    width: clamp(250px, 50%, 400px);
+}
